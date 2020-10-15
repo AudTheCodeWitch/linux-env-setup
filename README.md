@@ -30,7 +30,7 @@ Before we start installing all of our developer tools, we want to make sure that
 Now we can install some essential dev tools (postgres, node...) using curl:
 
  - `sudo apt-get -y install curl postgresql libpq-dev default-jre build-essential phantomjs`
- - `curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -`
+ - `curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`
  - `sudo apt-get install nodejs`
 
 ### The non-essentials:
